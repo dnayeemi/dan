@@ -1,0 +1,6 @@
+{
+  "name": "QR Maker",
+  "description": "Modern QR Code Generator with custom styles, colors, center logos, history, and high-quality exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
